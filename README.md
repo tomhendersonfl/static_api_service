@@ -44,7 +44,7 @@ node module:
 		"id": 0,
 		"first_name": "Marina",
 		"last_name": "Karima",
-		"active": 0,
+		"active": 1,
 		"y_code": "xA0D"
 	}
 }, {
@@ -52,7 +52,7 @@ node module:
 		"id": 1,
 		"first_name": "Hank",
 		"last_name": "Clementine",
-		"active": 0,
+		"active": 1,
 		"y_code": "Y37P"
 	}
 }, {
@@ -124,7 +124,7 @@ node module:
 		"id": 10,
 		"first_name": "Ammie",
 		"last_name": "Alvera",
-		"active": 0,
+		"active": 1,
 		"y_code": "673D"
 	}
 }, {
@@ -132,7 +132,7 @@ node module:
 		"id": 11,
 		"first_name": "Willia",
 		"last_name": "Illa",
-		"active": 0,
+		"active": 1,
 		"y_code": "A654"
 	}
 }, {
@@ -188,7 +188,7 @@ node module:
 		"id": 18,
 		"first_name": "Nilsa",
 		"last_name": "Ned",
-		"active": 0,
+		"active": 1,
 		"y_code": "vtJ9"
 	}
 }, {
